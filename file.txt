@@ -1,0 +1,2 @@
+mysql> tee file.txt
+mysql> notee
